@@ -38,3 +38,23 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+Number and name of feature: Modify Contents
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 11:30
+
+Finish time: 12:00
+
+Actual time needed to complete: 30 minutes....im a boring person....
+
+Number and name of feature: SMACC the css
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 12:00
+
+Finish time: 1:00
+
+Actual time needed to complete: 1 hour
