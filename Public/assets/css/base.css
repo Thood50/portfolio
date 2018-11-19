@@ -261,7 +261,9 @@ section > :last-child, section > .container, section:last-child, article > :last
 
         #main > section.one {
             background-color: #81918E;
-            background-image: url("../../images/banner.jpg");
+            background-image: url("../../images/tenor.gif");
+            color: black;
+            font-weight: bold;
         }
 
         #main > section.two {
