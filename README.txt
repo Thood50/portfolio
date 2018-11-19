@@ -63,11 +63,11 @@ Number and name of feature: Add functionalitiy
 
 Estimate of time needed to complete: 1 hour
 
-Start time: 6:00
+Start time: 6:00, 1:00
 
-Finish time: 8:00
+Finish time: 8:00, 1:30
 
-Actual time needed to complete: 2 hour
+Actual time needed to complete: 2 hours and 30 minutes
 
 Number and name of feature: Responsive Web Design
 
