@@ -257,19 +257,25 @@ section > :last-child, section > .container, section:last-child, article > :last
             padding: 10em 0;
             background-size: cover;
             background-position: center center;
+            background-image: url("../../images/cool-banners-for-youtube-best-business-template-for-cool-banners.jpg")
         }
 
         #main > section.one {
             background-color: #81918E;
-            background-image: url("../../images/banner.jpg");
+            background-image: url("../../images/tenor.gif");
+            color: black;
+            font-weight: bold;
         }
 
         #main > section.two {
             background-color: #f5fafa;
+
         }
 
         #main > section.three {
             background-color: #ecf1f1;
+            background-image: url("../../images/giphy.gif");
+            
         }
 
         #main > section.four {
