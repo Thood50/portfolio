@@ -58,3 +58,23 @@ Start time: 12:00
 Finish time: 1:00
 
 Actual time needed to complete: 1 hour
+
+Number and name of feature: Add functionalitiy
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 6:00
+
+Finish time: 8:00
+
+Actual time needed to complete: 2 hour
+
+Number and name of feature: Responsive Web Design
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 9:30
+
+Finish time: 11:10
+
+Actual time needed to complete: 1 hour 40 minutes
